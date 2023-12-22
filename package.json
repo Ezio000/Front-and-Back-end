@@ -1,5 +1,5 @@
 {
-  "name": "example-app",
+  "name": "Nazar Vasyuta",
   "scripts": {
     "build": "webpack --mode development --entry ./src/client/index.js --output ./static/bundle.js",
     "start": "node src/server/app.js"
